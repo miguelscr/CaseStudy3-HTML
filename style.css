@@ -1,0 +1,19 @@
+html{
+    font-size: 10px;
+    background-color: #a9a9a9;
+}
+
+h1, h2, h3{
+    font-family:    'Sonsie One', cursive;
+    color:          #2a2a2a;
+}
+
+.tittle2{
+    font-size:      3rem;
+    text-align:     center;
+}
+
+#tittle2{
+    font-size: 3rem;
+    text-align:     center;
+}
